@@ -1,2 +1,1 @@
-# wlt
 # Winners, Losers, Traits
